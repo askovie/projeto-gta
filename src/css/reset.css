@@ -1,0 +1,19 @@
+*{
+   margin: 0; /*espaçamentos externos nos elementos*/
+   padding: 0; /*espaçamento interno*/
+   box-sizing: border-box; /*larguras e alturas*/
+
+}
+
+ul{
+    list-style: none; /*vai tirar o estilo da lista*/
+
+/*tem como fazer um comando que é shft+alt+f (ou alt+shift+f) ele vai deixar o código melhor formatado*/
+
+}
+
+a{
+    text-decoration: none; /*retira qualquer fonte decorativa*/
+    color: inherit; /*vai herdar as cores que vamos colocar*/
+}
+
